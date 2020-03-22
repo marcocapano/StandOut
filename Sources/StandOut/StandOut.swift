@@ -62,7 +62,7 @@ public extension UILabel {
         return
     }
 
-    struct Gradient {
+    public struct Gradient {
         let startColor: UIColor
         let endColor: UIColor
         let kind: Kind
