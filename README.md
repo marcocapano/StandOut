@@ -17,9 +17,9 @@ label.apply(gradient: .init(startColor: start, endColor: end, kind: .linearHoriz
 
 ## Examples
 
-![horizontal]()
-![vertial]()
-![radial]()
+![horizontal](Tests/StandOutTests/__Snapshots__/StandOutTests/testLinearHorizontalGradient.1.png)
+![vertial](Tests/StandOutTests/__Snapshots__/StandOutTests/testLinearVerticalGradient.1.png)
+![radial](Tests/StandOutTests/__Snapshots__/StandOutTests/testRadialGradient.1.png)
 
 
 
