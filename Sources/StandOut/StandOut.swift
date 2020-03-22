@@ -80,9 +80,3 @@ public extension UILabel {
         }
     }
 }
-
-//extension UITextView {
-//    func apply() {
-//
-//    }
-//}
