@@ -23,6 +23,16 @@ label.apply(gradient: .init(startColor: startColor, endColor: endColor, kind: .l
 ### Radial Gradient
 ![radial](Tests/StandOutTests/__Snapshots__/StandOutTests/testRadialGradient.1.png)
 
+## Installation
+
+Using SwiftPM:
+
+```
+dependencies: [
+    .package(url: "https://github.com/marcocapano/StandOut.git", from: "1.0")
+]
+```
+
 
 
 
