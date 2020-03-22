@@ -17,3 +17,10 @@ label.apply(gradient: .init(startColor: start, endColor: end, kind: .linearHoriz
 
 ## Examples
 
+![horizontal]()
+![vertial]()
+![radial]()
+
+
+
+
